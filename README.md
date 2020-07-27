@@ -1,2 +1,3 @@
 # wikipedia-python
-Getting wikipedia from google (using wikipedia)
+
+Getting wikipedia from google using wikipedia module 
